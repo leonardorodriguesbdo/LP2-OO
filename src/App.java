@@ -49,5 +49,7 @@ public class App {
         
         System.out.println("O rendimento da conta corrente foi: " + cc1.rendimento());
 
+        System.out.println("Teste");
+
     }
 }
